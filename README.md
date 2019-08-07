@@ -4,10 +4,13 @@ _Keepin' it fresh..._
 # About
 > Just another repo for the code I use on Datacamp's Data Science with Python track. Yes, I've decided to add another 100 hours on Data Science on top of Codeup's training; just making sure everything sticks!
 
+**UPDATE:** I've decided to do a shorter skill track instead. I went for that small win to keep me motivated.
+
 
 ## Links
 
-- [Data Camp](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+- [Data Camp - Data Scientist with Python Career Track](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [Data Camp - Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming)
 - [Codeup](https://codeup.com/ds-admissions/)
 
 
