@@ -6,6 +6,8 @@ _Keepin' it fresh..._
 
 **UPDATE:** I've decided to do a shorter skill track instead. I went for that small win to keep me motivated.
 
+**UPDATE:** Yuppers! Finished the shorter skill track so now I'm going FTW!
+
 
 ## Links
 
